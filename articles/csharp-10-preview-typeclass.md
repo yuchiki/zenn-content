@@ -6,6 +6,12 @@ topics: ["dotnet", "csharp", "型クラス", "preview" , "staticAbstract"]
 published: false
 ---
 
+# Todo
+
+- [ ] タイトルが強すぎやしないか
+  - 普通の C# 10 でも表現できないか？
+
+
 # 概要
 
 C#10/.NET 6 の preview版では interface が static abstract member を持つことができます。この機能により、複雑でない型に対して型クラス的な制約が書けるようになりました。
@@ -22,6 +28,8 @@ C#10/.NET 6 の preview版では interface が static abstract member を持つ�
 # C# 10 preview の static abstracts in interface
 
 # 型クラスの表現の実例
+
+## Monoid 型クラスの例
 
 # C# 10 preview 版では表現できない型-型クラス制約の例
 
