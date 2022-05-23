@@ -180,7 +180,6 @@ Assert.Equal(AskTheirIdentity<HappyClass>(), expected);
 
 
 # 型クラスの表現の実例
-
 ## 以前から書けていた型クラス的制約の例
 
 
